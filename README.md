@@ -1,2 +1,2 @@
 # Pemrograman Game dan Animasi UAS
-## Project Name : Space Invaders
+## Project Name : Space Wars
